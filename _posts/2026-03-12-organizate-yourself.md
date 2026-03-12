@@ -9,20 +9,20 @@ tags: [softskills, effectivelife]
 
 ## Introduction
 
-::: text-justify
+<div style="text-align: justify;">
 Personal organization is part of the daily routine of highly effective people, as it is what enables them to be highly effective. 
 
 But remember, it’s not only personal organization that makes someone achieve above-average results — effort and focused actions aligned with one’s goals are equally important.
 
 Throughout this text, we will explore how this concept applies to software engineers, and you are invited to join this adventure that is organization with technology.
-:::
+</div>
 
 ## Why Being Organized Is Important for a Software Engineer
 
-::: text-justify
+<div style="text-align: justify;">
 Because, after all, they’re human haha!
 Nowadays, remote work has become a reality for many people, especially young professionals. With this shift, organization has become essential — whether it’s managing time, keeping your workspace in order, or adapting your daily routine. Below, we’ll look at some points of organization, divided into monetizable and non-monetizable (for some, advantages; for others, challenges hehe):
-:::
+</div>
 
 <table style="margin-left:auto; margin-right:auto;">
     <tr>
