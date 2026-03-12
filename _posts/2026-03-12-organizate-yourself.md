@@ -9,14 +9,14 @@ tags: [softskills, effectivelife]
 # First, get organized!
 
 ## Introduction
+
 A organização pessoal faz parte do cotidiano das pessoas altamente eficazes, pois isso é o que possibilita elas estarem altamente eficazes. Mas lembre-se, não é somente a organização pessoal que torna um ser humano altamente eficaz com resultados acima da média, mas o empenho e foco das ações na direção correta dos seus objetivos. Ao longo do texto iremos abordar a aplicação desse tema relacionado aos engenheiros de software, sinta-se convidado a participar dessa aventura que é organização com tecnologia.
 
 
-## Why being organized is important for a Software Engineering?
+## Why Being Organized Is Important for a Software Engineer
 
-Por que ele é um ser humano haha!
-
-Atualmente o trabalho remoto se tornou realidade na vida de muitas pessoas, boa parte delas jovens. Com esse advento exigiu-se organização de tempo, ambiente e adaptação de rotina de todos. Abaixo vamos analisar alguns pontos (positivos para alguns e negativos para outros hehe), categorizados como __precificáveis__ e __não precificáveis__:
+Because, after all, they’re human haha!
+Nowadays, remote work has become a reality for many people, especially young professionals. With this shift, organization has become essential — whether it’s managing time, keeping your workspace in order, or adapting your daily routine. Below, we’ll look at some points of organization, divided into monetizable and non-monetizable (for some, advantages; for others, challenges hehe):
 
 
 <table style="margin-left:auto; margin-right:auto;">
@@ -48,6 +48,7 @@ Atualmente o trabalho remoto se tornou realidade na vida de muitas pessoas, boa 
 
 
 ## Fast Reasons:
+
 1. __Time__  
 Time is one of the most precious assets a human being has, as it is scarce and irreplaceable. Without organization, we waste hours on irrelevant tasks, hindering our ability to focus on what truly matters. Proper time management allows us to prioritize activities that bring results and well-being.  
 
@@ -89,11 +90,13 @@ Moreover, lack of control over tasks significantly impairs creative and innovati
 
 
 ## Don’t reinvent the wheel
+
 There are already several proven methods to help us organize our daily tasks. It is important to remember that routine is not the same as organization; a routine simply refers to the frequency with which a particular activity or set of activities is performed.
 In the upcoming posts of the Effective Life series, we will explore these methods in detail, showing how to apply them practically to increase productivity, reduce stress, and gain greater control over daily life.
 
 
 ## Conclusion
+
 There are countless examples that show how a lack of organization negatively affects all aspects of daily life. Having organized ideas and tasks brings clear benefits: it provides a sense of accomplishment and allows you to clearly see progress toward your goals.
 
 
@@ -101,6 +104,7 @@ There are countless examples that show how a lack of organization negatively aff
 
 
 ## Next Steps
+
 In the upcoming posts, we will explore different types of work and, later, how to apply organization and planning techniques effectively in our daily lives.
 
 </div>
