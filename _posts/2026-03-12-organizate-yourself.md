@@ -57,11 +57,8 @@ Nowadays, remote work has become a reality for many people, especially young pro
 
 ## Fast Reasons:
 
-<div style="text-align: justify;">
-
 1. __Time__  
 Time is one of the most precious assets a human being has, as it is scarce and irreplaceable. Without organization, we waste hours on irrelevant tasks, hindering our ability to focus on what truly matters. Proper time management allows us to prioritize activities that bring results and well-being.  
-</div>
 
 2. __Health__  
 Lack of organization directly impacts both physical and mental health. When we live in chaos, our body and mind quickly reach exhaustion, generating intense stress and increasing the risk of chronic illnesses. Additionally, a disorganized routine makes it difficult to maintain regular exercise and healthy habits. 
@@ -80,18 +77,16 @@ Disorganization makes us dependent on rigid routines, tight deadlines, and exter
 
 7. __Housing__  
 A disorganized home becomes a constant source of problems. Lack of preventive maintenance, clutter, and messy spaces increase stress and compromise comfort and safety. *(It is recommended to read *The Broken Windows Theory*, which shows how small neglects can lead to major impacts.)*  
-<div style="text-align: justify;">
+
 8. __Feeding__  
 Without planning, nutrition tends to be neglected. Fast food becomes routine, nutritional quality drops, and the body lacks essential nutrients. Preparing healthy meals becomes difficult, creating dependence on quick and unhealthy solutions.  
-</div>
-<div style="text-align: justify;">  
 
 9. __Locomotion__  
 Lack of organization leads to wasted time on unnecessary or poorly planned travel. With a structured routine, it is possible to optimize routes, save time and energy, and reduce stress associated with daily movement.  
 
 10. __Investments__  
 Without financial organization, planning investments or making intelligent choices becomes nearly impossible. Failing to track expenses, income, and goals prevents wealth growth and limits long-term financial security. Planning and organization are essential to build wealth consistently.  
-</div>
+
 
 ## Work
 
