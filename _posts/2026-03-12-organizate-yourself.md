@@ -1,6 +1,6 @@
 ---
 title: First, get organized!
-date: 2026-03-11
+date: 2026-03-12
 categories: [SoftSkills]
 tags: [softskills, effectivelife]
 ---
