@@ -26,7 +26,7 @@ Throughout this text, we will explore how this concept applies to software engin
 Because, after all, they’re human haha!
 Nowadays, remote work has become a reality for many people, especially young professionals. With this shift, organization has become essential — whether it’s managing time, keeping your workspace in order, or adapting your daily routine. Below, we’ll look at some points of organization, divided into monetizable and non-monetizable (for some, advantages; for others, challenges hehe):
 </div>
-
+<br />
 <table style="margin-left:auto; margin-right:auto;">
     <tr>
         <th>Not priced</th>
