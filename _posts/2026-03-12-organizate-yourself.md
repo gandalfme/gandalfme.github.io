@@ -18,7 +18,7 @@ A organização pessoal faz parte do cotidiano das pessoas altamente eficazes, p
 Because, after all, they’re human haha!
 Nowadays, remote work has become a reality for many people, especially young professionals. With this shift, organization has become essential — whether it’s managing time, keeping your workspace in order, or adapting your daily routine. Below, we’ll look at some points of organization, divided into monetizable and non-monetizable (for some, advantages; for others, challenges hehe):
 
-<!-- 
+
 <table style="margin-left:auto; margin-right:auto;">
     <tr>
         <th>Not priced</th>
@@ -44,7 +44,7 @@ Nowadays, remote work has become a reality for many people, especially young pro
         <td>5. Environment</td>
         <td>10. Investments</td>
     </tr>
-</table> -->
+</table>
 
 
 ## Fast Reasons:
