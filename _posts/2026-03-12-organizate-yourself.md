@@ -5,12 +5,12 @@ categories: [SoftSkills]
 tags: [softskills, effectivelife]
 ---
 
-<div style="text-align: justify;">
 
 # First, get organized!
 
 ## Introduction
 
+<div style="text-align: justify;">
 
 Personal organization is part of the daily routine of highly effective people, as it is what enables them to be highly effective. 
 
