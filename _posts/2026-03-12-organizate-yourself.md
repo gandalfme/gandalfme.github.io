@@ -4,7 +4,7 @@ date: 2026-03-11
 categories: [SoftSkills]
 tags: [softskills, effectivelife]
 ---
-<div align="justify">
+<!-- <div align="justify"> -->
 
 # First, get organized!
 
@@ -107,4 +107,4 @@ There are countless examples that show how a lack of organization negatively aff
 
 In the upcoming posts, we will explore different types of work and, later, how to apply organization and planning techniques effectively in our daily lives.
 
-</div>
+<!-- </div> -->
