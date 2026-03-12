@@ -58,6 +58,8 @@ Nowadays, remote work has become a reality for many people, especially young pro
 ## Fast Reasons:
 
 
+<div style="text-align: justify;">
+
 1. __Time__  
 Time is one of the most precious assets a human being has, as it is scarce and irreplaceable. Without organization, we waste hours on irrelevant tasks, hindering our ability to focus on what truly matters. Proper time management allows us to prioritize activities that bring results and well-being.  
 
@@ -88,6 +90,7 @@ Lack of organization leads to wasted time on unnecessary or poorly planned trave
 10. __Investments__  
 Without financial organization, planning investments or making intelligent choices becomes nearly impossible. Failing to track expenses, income, and goals prevents wealth growth and limits long-term financial security. Planning and organization are essential to build wealth consistently.
 
+</div>
 
 ## Work
 
