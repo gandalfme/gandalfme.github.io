@@ -63,7 +63,7 @@ Nowadays, remote work has become a reality for many people, especially young pro
         <strong>Teste</strong>
         <p>Time is one of the most precious assets a human being has, as it is scarce and irreplaceable. Without organization, we waste hours on irrelevant tasks, hindering our ability to focus on what truly matters. Proper time management allows us to prioritize activities that bring results and well-being.</p>
     </li>
-<ol>
+</ol>
 </div>
 
 1. __Time__  
